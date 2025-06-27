@@ -23,13 +23,37 @@ You will:
 ## Files Included
 
 - `Week1-Assignment.md`: Detailed assignment instructions
-- `insert_books.js`: Script to populate your MongoDB database with sample book data
+- `insert_books.js`: Script to populate your MongoDB database with sample book 
+- `queries.js`: Script containing the various queries in the tasks.
 
 ## Requirements
 
 - Node.js (v18 or higher)
 - MongoDB (local installation or Atlas account)
 - MongoDB Shell (mongosh) or MongoDB Compass
+
+## Running the Queries
+Prerequisites
+
+Before running these queries, make sure you have:
+
+ MongoDB installed and running locally or connected to a remote cluster.
+
+Access to a MongoDB shell or a GUI like MongoDB Compass or VS Code MongoDB Extension.
+
+A database containing a books collection populated with relevant documents.
+
+ Task 2 – Basic CRUD Operations
+ These commands demonstrate how to filter, update, and delete data in your books collection:
+
+ Task 3 – Advanced Filtering and Sorting
+These queries explore more filtering options, projections, and pagination techniques:
+
+Task 4 – Aggregations and Analytics
+Use aggregation to perform statistical and grouped analysis on the book data:
+
+Task 5 – Indexing and Query Performance
+Improve search efficiency and examine how MongoDB executes your queries:
 
 ## Submission
 
